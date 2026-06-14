@@ -106,6 +106,5 @@ Scripts and utilities designed to automate workflows and save time.
 
 <div align="center">
 
-### ⚡ Building the future, one project at a time
 
 </div>
