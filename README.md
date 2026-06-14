@@ -80,17 +80,6 @@ Scripts and utilities designed to automate workflows and save time.
 * SaaS Development
 * Performance Optimization
 
----
-
-## 🎯 Goals
-
-* [ ] Launch FlexBio.link publicly
-* [ ] Build more SaaS products
-* [ ] Improve system architecture skills
-* [ ] Contribute to open source
-* [ ] Grow as a Full-Stack Developer
-
----
 
 ## 🌍 Connect
 
