@@ -1,20 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,100:2563eb&text=Franek&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=Franek&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
 
 # 👋 Hey, I'm Franek
 
-### Full-Stack Developer • Building products, not just projects
+### Full-Stack Developer from Poland 🇵🇱
 
-<p>
-  <a href="https://franekk.com">
-    <img src="https://img.shields.io/badge/Portfolio-franekk.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/Pajak78?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Pajak78?style=for-the-badge"/>
-</p>
+Building modern web applications, APIs and digital products.
 
-Currently building **FlexBio.link** 🚀
+<br>
+
+🌐 **franekk.com**
+
+🚀 Currently building **FlexBio.link**
 
 </div>
 
@@ -22,94 +20,75 @@ Currently building **FlexBio.link** 🚀
 
 ## 💫 About
 
-I'm a developer from Poland focused on building modern web applications, APIs and SaaS products.
+I'm a Full-Stack Developer focused on building modern web applications, scalable backend systems and digital products.
 
-My current main project is **FlexBio.link** — a platform that helps creators, developers and businesses build customizable bio pages and personal landing pages.
+My current main project is **FlexBio.link** — a modern platform for creating customizable bio pages and personal landing pages.
+
+I enjoy turning ideas into products, solving real problems and creating clean user experiences.
 
 ---
 
 ## 🚀 Current Focus
 
-```txt
-→ Building FlexBio.link
-→ Next.js & TypeScript
-→ Backend Architecture
-→ API Integrations
-→ Product Development
-```
+* Building **FlexBio.link**
+* Creating modern web applications
+* Developing scalable APIs
+* Learning advanced backend architecture
+* Exploring SaaS product development
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,python,lua,html,css,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,python,lua" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-| Frontend   | Backend   | Other   |
-| ---------- | --------- | ------- |
-| Next.js    | Node.js   | Git     |
-| React      | Python    | GitHub  |
-| TypeScript | REST APIs | VS Code |
-| HTML/CSS   | Express   | Lua     |
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pajak78&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pajak78&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pajak78&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏗️ Featured Projects
+## 🏗 Featured Projects
 
 ### 🌐 FlexBio.link
 
-Modern bio-link platform with personalization, social integration and custom branding.
+Modern bio-link platform focused on customization, performance and user experience.
 
 ### ⚡ Portfolio
 
-Personal website showcasing projects, experience and development journey.
+Personal website showcasing projects, skills and development journey.
 
 ### 🔗 API Integrations
 
-Tools and services connected through modern REST APIs.
+Building tools and services connected through modern APIs.
 
 ### 🤖 Automation
 
-Scripts and utilities designed to save time and automate workflows.
+Scripts and utilities designed to automate workflows and save time.
+
+---
+
+## 📚 Currently Learning
+
+* Advanced TypeScript
+* Backend Architecture
+* API Design Patterns
+* SaaS Development
+* Performance Optimization
 
 ---
 
 ## 🎯 Goals
 
 * [ ] Launch FlexBio.link publicly
-* [ ] Reach 500+ GitHub contributions
-* [ ] Release more public projects
-* [ ] Build a successful SaaS product
+* [ ] Build more SaaS products
+* [ ] Improve system architecture skills
 * [ ] Contribute to open source
+* [ ] Grow as a Full-Stack Developer
 
 ---
 
@@ -118,7 +97,7 @@ Scripts and utilities designed to save time and automate workflows.
 <div align="center">
 
 <a href="https://franekk.com">
-  <img src="https://img.shields.io/badge/Website-franekk.com-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-franekk.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -127,8 +106,6 @@ Scripts and utilities designed to save time and automate workflows.
 
 <div align="center">
 
-### ⚡ Building the future, one commit at a time
-
-<img src="https://komarev.com/ghpvc/?username=Pajak78&label=Profile%20Views&color=2563eb&style=flat-square"/>
+### ⚡ Building the future, one project at a time
 
 </div>
